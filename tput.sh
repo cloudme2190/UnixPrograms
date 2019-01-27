@@ -11,3 +11,4 @@ tput cup 15 20
 tput bold
 echo "This should be in bold"
 echo "\033[0m"
+
